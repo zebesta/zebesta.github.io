@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "NYC Bicycle Crash Map"
 date:   2016-06-21 14:12:11 -0400
-categories: jekyll update
+categories: android apps
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+NYC Bicycle Crash Map is an Android app to visualize motor vehicle crashes involving cyclists in New York City. This app is built using information provided by NYPD under the NYC Open Data Initiative. The goal is to show this data in a user friendly, familiar, and intuitive way so that cyclists can make informed decisions about the roads they take on their travels throughout the city.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Check out the [NYC Bicycle Crash Map App][nyc-bike-crash-app] in the play store and give it a try! If you have questions, feel free to ask them.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[nyc-bike-crash-app]: https://play.google.com/store/apps/details?id=com.wordpress.chrissebesta.nyccyclemap
