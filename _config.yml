@@ -28,7 +28,7 @@ navbar-links:
     - NYC Bicycle Crash Map: "https://play.google.com/store/apps/details?id=com.wordpress.chrissebesta.nyccyclemap"
     - Garden Helper: "https://www.dropbox.com/s/pxxq6i5wm1z9uh3/garden-helper.apk?dl=0"
     - GitHub: "https://github.com/zebesta"
-  Resume: http://chrissebesta.com/C_Sebesta_pdf.pdf
+  Resume: http://chrissebesta.com/C_Sebesta.pdf
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -47,7 +47,7 @@ author:
   twitter: zebesta   # eg. daattali
   linkedin: chrissebesta  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: 6567095/zebesta  # eg. "3943160/daattali"
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
