@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NYC Bicycle Crash Map"
-date:   2016-06-21 14:12:11 -0400
+date:   2016-07-28 14:12:11 -0400
 categories: android apps
 bigimg: /img/BikeFeatureGraphic.jpg
 ---
