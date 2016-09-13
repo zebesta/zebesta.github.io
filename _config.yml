@@ -25,6 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Plants App: "https://zebesta.github.io/plants-angular-cli/"
     - NYC Bicycle Crash Map: "https://play.google.com/store/apps/details?id=com.wordpress.chrissebesta.nyccyclemap"
     - Garden Helper: "https://www.dropbox.com/s/pxxq6i5wm1z9uh3/garden-helper.apk?dl=0"
     - GitHub: "https://github.com/zebesta"
