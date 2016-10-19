@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Citbike Routing Directions and Time App"
+title:  "Citbike Routing App"
 date:   2016-10-19 14:23:11 -0400
 categories: web apps
 bigimg: /img/citibike.jpg
