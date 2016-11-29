@@ -13,7 +13,7 @@ The functional python script was interesting, but no average user would be able 
 
 Check out the [Change Ringing Web Site][change-ringing] and give it a try! (**Warning:** This will take about 20 seconds to load for the first time as it has to wake up the Heroku Server) As always, if you have any comments or questions, feel free to send it my way.
 
-[change-ringing]: hhttps://change-ringing.herokuapp.com/
+[change-ringing]: https://change-ringing.herokuapp.com/
 [myles]: https://github.com/mylesdakan
 [recurse]: https://www.recurse.com/
 [flask]: http://flask.pocoo.org/
