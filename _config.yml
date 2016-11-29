@@ -24,13 +24,13 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  GitHub: "https://github.com/zebesta"
   Projects:
     - Citbike Routing: "https://zebesta.github.io/citibike2/"
     - Plants App: "https://zebesta.github.io/plants-angular-cli/"
     - NYC Bicycle Crash Map: "https://play.google.com/store/apps/details?id=com.wordpress.chrissebesta.nyccyclemap"
     - Linear Regression: "http://zebesta.github.io/plain-regression"
     - Garden Helper: "https://www.dropbox.com/s/pxxq6i5wm1z9uh3/garden-helper.apk?dl=0"
-    - GitHub: "https://github.com/zebesta"
   Resume: http://chrissebesta.com/C_Sebesta.pdf
   #Author's home: "http://deanattali.com"
 
