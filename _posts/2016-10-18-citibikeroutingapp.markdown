@@ -2,7 +2,7 @@
 layout: post
 title:  "Citbike Routing App"
 date:   2016-10-19 14:23:11 -0400
-categories: web apps
+categories: Angular2 Typescript Javascript
 bigimg: /img/citibike.jpg
 ---
 
