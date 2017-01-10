@@ -17,7 +17,7 @@ Talk more about the learnings
  -->
 
 
-Check out the [Change Ringing Web Site][change-ringing] and give it a try! (**Warning:** This will take about 20 seconds to load for the first time as it has to wake up the Heroku Server) As always, if you have any comments or questions, feel free to send them my way.
+Check out the [Change Ringing Web Site][change-ringing] and give it a try! (**Warning:** This will take about 20 seconds to load for the first time as it has to wake up the Heroku Server) As always, if you have any comments or questions feel free to send them my way or take a peak at the [source][sourcelink] if you wish!
 
 [change-ringing]: https://change-ringing.herokuapp.com/
 [myles]: https://github.com/mylesdakan
@@ -25,3 +25,4 @@ Check out the [Change Ringing Web Site][change-ringing] and give it a try! (**Wa
 [flask]: http://flask.pocoo.org/
 [explanation]: http://www.cccbr.org.uk/education/thelearningcurve/pdfs/200404.pdf
 [video]: https://www.youtube.com/watch?v=3lyDCUKsWZs
+[sourcelink]: https://github.com/zebesta/change-ringing
