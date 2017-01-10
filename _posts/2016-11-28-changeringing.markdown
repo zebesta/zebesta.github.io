@@ -17,7 +17,7 @@ Talk more about the learnings
  -->
 
 
-Check out the [Change Ringing Web Site][change-ringing] and give it a try! (**Warning:** This will take about 20 seconds to load for the first time as it has to wake up the Heroku Server) As always, if you have any comments or questions, feel free to send them my way. Or
+Check out the [Change Ringing Web Site][change-ringing] and give it a try! (**Warning:** This will take about 20 seconds to load for the first time as it has to wake up the Heroku Server) As always, if you have any comments or questions, feel free to send them my way.
 
 [change-ringing]: https://change-ringing.herokuapp.com/
 [myles]: https://github.com/mylesdakan
